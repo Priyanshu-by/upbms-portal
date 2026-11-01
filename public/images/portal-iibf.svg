@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420">
+  <defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b2559"/>
+      <stop offset="60%" stop-color="#173f8a"/>
+      <stop offset="100%" stop-color="#e67e22"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="420" fill="url(#bg1)"/>
+  <circle cx="680" cy="90" r="140" fill="#ffffff" opacity="0.06"/>
+  <circle cx="110" cy="340" r="160" fill="#ff9933" opacity="0.12"/>
+  <!-- Certificate & Exam Screen Illustration -->
+  <rect x="90" y="75" width="320" height="230" rx="18" fill="#ffffff" opacity="0.96"/>
+  <rect x="110" y="95" width="280" height="36" rx="8" fill="#0b2559"/>
+  <circle cx="130" cy="113" r="7" fill="#ff9933"/>
+  <rect x="148" y="108" width="140" height="10" rx="5" fill="#ffffff"/>
+  <rect x="115" y="150" width="180" height="14" rx="6" fill="#cbd5e1"/>
+  <rect x="115" y="176" width="240" height="12" rx="6" fill="#e2e8f0"/>
+  <rect x="115" y="200" width="210" height="12" rx="6" fill="#e2e8f0"/>
+  <rect x="115" y="238" width="130" height="38" rx="10" fill="#ff9933"/>
+  <text x="180" y="263" text-anchor="middle" fill="#0b2559" font-family="sans-serif" font-size="16" font-weight="800">BC / BF EXAM</text>
+  <!-- Gold Seal Badge -->
+  <circle cx="355" cy="245" r="38" fill="#f59e0b" stroke="#0b2559" stroke-width="5"/>
+  <text x="355" y="252" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="22" font-weight="900">IIBF</text>
+  <!-- Right Text Callout -->
+  <text x="455" y="155" fill="#ffd166" font-family="sans-serif" font-size="22" font-weight="800">CERTIFICATION PORTAL</text>
+  <text x="455" y="205" fill="#ffffff" font-family="sans-serif" font-size="40" font-weight="900">IIBF BC Exam</text>
+  <text x="455" y="250" fill="#e2e8f0" font-family="sans-serif" font-size="22" font-weight="600">सर्टिफिकेट एवं परीक्षा पंजीकरण</text>
+  <rect x="455" y="280" width="250" height="46" rx="23" fill="#ff9933"/>
+  <text x="580" y="310" text-anchor="middle" fill="#0b2559" font-family="sans-serif" font-size="19" font-weight="800">iibf.org.in ↗</text>
+</svg>

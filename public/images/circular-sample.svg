@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520">
+  <rect width="760" height="520" fill="#fffdf7" stroke="#0b2559" stroke-width="6"/>
+  <rect x="20" y="20" width="720" height="78" rx="8" fill="#0b2559"/>
+  <text x="380" y="54" text-anchor="middle" fill="#ffd166" font-family="sans-serif" font-size="24" font-weight="900">राज्य स्तरीय बैंकिंग परिपत्र / SLBC CIRCULAR NOTICE</text>
+  <text x="380" y="82" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="15" font-weight="700">समस्त बैंक मित्र एवं CSP किओस्क संचालकों के हितार्थ दिशा-निर्देश</text>
+  <text x="45" y="132" fill="#334155" font-family="sans-serif" font-size="15" font-weight="800">परिपत्र सं.: SLBC/UP/BC-GUIDE/2026/44</text>
+  <text x="560" y="132" fill="#334155" font-family="sans-serif" font-size="15" font-weight="800">दिनांक: 18-10-2026</text>
+  <line x1="40" y1="146" x2="720" y2="146" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="45" y="184" fill="#0f172a" font-family="sans-serif" font-size="16" font-weight="700">1. किसी भी बैंक मित्र (CSP) के सेटलमेंट खाते पर धारा 194N के अंतर्गत अनावश्यक TDS कटौती न की जाए।</text>
+  <text x="45" y="222" fill="#0f172a" font-family="sans-serif" font-size="16" font-weight="700">2. किओस्क केंद्र पर बैंक का आधिकारिक बोर्ड, दर-सूची एवं शिकायत पंजिका रखना अनिवार्य है।</text>
+  <text x="45" y="260" fill="#0f172a" font-family="sans-serif" font-size="16" font-weight="700">3. बिना कारण बताओ नोटिस जारी किए किसी भी कार्यरत बैंक मित्र का KO कोड बंद न किया जाए।</text>
+  <text x="45" y="298" fill="#0f172a" font-family="sans-serif" font-size="16" font-weight="700">4. प्रत्येक माह की 5 तारीख तक पारदर्शी कमीशन विवरण (Statement) उपलब्ध कराया जाए।</text>
+  <rect x="45" y="340" width="670" height="72" rx="10" fill="#eff6ff" stroke="#93c5fd"/>
+  <text x="380" y="372" text-anchor="middle" fill="#1e3a8a" font-family="sans-serif" font-size="15" font-weight="800">उत्तर प्रदेश बैंक मित्र संघ (UPBMS) द्वारा सभी जनपद इकाइयों को सूचनार्थ प्रसारित</text>
+  <text x="380" y="396" text-anchor="middle" fill="#475569" font-family="sans-serif" font-size="13">इस आदेश की प्रति अपने किओस्क केंद्र पर सुरक्षित रखें।</text>
+  <text x="380" y="468" text-anchor="middle" fill="#64748b" font-family="sans-serif" font-size="13" font-weight="700">सार्वजनिक सूचना परिपत्र (बिना पदाधिकारी हस्ताक्षर/मुहर)</text>
+</svg>

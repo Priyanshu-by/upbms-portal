@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f3d3e"/>
+      <stop offset="55%" stop-color="#0b2559"/>
+      <stop offset="100%" stop-color="#1e40af"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="420" fill="url(#bg2)"/>
+  <circle cx="690" cy="330" r="150" fill="#ff9933" opacity="0.14"/>
+  <!-- State Banking Network Card -->
+  <rect x="85" y="80" width="290" height="255" rx="20" fill="#ffffff" opacity="0.96"/>
+  <polygon points="230,105 330,150 130,150" fill="#0b2559"/>
+  <rect x="145" y="156" width="170" height="10" fill="#ff9933"/>
+  <rect x="155" y="172" width="22" height="72" fill="#1e3a8a"/>
+  <rect x="195" y="172" width="22" height="72" fill="#1e3a8a"/>
+  <rect x="235" y="172" width="22" height="72" fill="#1e3a8a"/>
+  <rect x="275" y="172" width="22" height="72" fill="#1e3a8a"/>
+  <rect x="135" y="250" width="190" height="16" rx="4" fill="#0b2559"/>
+  <text x="230" y="305" text-anchor="middle" fill="#0b2559" font-family="sans-serif" font-size="22" font-weight="900">SLBC UTTAR PRADESH</text>
+  <!-- Right Content -->
+  <text x="415" y="150" fill="#ff9933" font-family="sans-serif" font-size="22" font-weight="800">STATE LEVEL BANKERS COMMITTEE</text>
+  <text x="415" y="205" fill="#ffffff" font-family="sans-serif" font-size="38" font-weight="900">SLBC उत्तर प्रदेश</text>
+  <text x="415" y="248" fill="#cbd5e1" font-family="sans-serif" font-size="21" font-weight="600">वित्तीय समावेशन एवं बैंक दिशा-निर्देश</text>
+  <rect x="415" y="280" width="265" height="46" rx="23" fill="#ff9933"/>
+  <text x="547" y="310" text-anchor="middle" fill="#0b2559" font-family="sans-serif" font-size="19" font-weight="800">slbcup.com ↗</text>
+</svg>

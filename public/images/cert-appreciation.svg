@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640">
+  <rect width="900" height="640" fill="#f8fafc"/>
+  <rect x="22" y="22" width="856" height="596" fill="#ffffff" stroke="#14532d" stroke-width="6"/>
+  <rect x="34" y="34" width="832" height="572" fill="none" stroke="#d97706" stroke-width="2.5"/>
+
+  <polygon points="450,62 462,88 490,91 469,110 475,138 450,124 425,138 431,110 410,91 438,88" fill="#d97706"/>
+  <text x="450" y="176" text-anchor="middle" fill="#14532d" font-family="sans-serif" font-size="27" font-weight="900">वित्तीय समावेशन उत्कृष्टता प्रशस्ति-पत्र</text>
+  <text x="450" y="206" text-anchor="middle" fill="#b45309" font-family="sans-serif" font-size="16" font-weight="800">CERTIFICATE OF APPRECIATION — RURAL DIGITAL BANKING</text>
+  <line x1="200" y1="226" x2="700" y2="226" stroke="#d97706" stroke-width="2"/>
+
+  <text x="450" y="274" text-anchor="middle" fill="#475569" font-family="sans-serif" font-size="16">यह सम्मान-पत्र सगर्व प्रदान किया जाता है:</text>
+  <text x="450" y="318" text-anchor="middle" fill="#0a2252" font-family="sans-serif" font-size="29" font-weight="900">उत्तर प्रदेश बैंक मित्र संघ (UPBMS)</text>
+
+  <text x="450" y="368" text-anchor="middle" fill="#334155" font-family="sans-serif" font-size="15.5">ग्रामीण अंचलों में प्रधानमंत्री जन-धन योजना, सामाजिक सुरक्षा बीमा, पेंशन एवं</text>
+  <text x="450" y="395" text-anchor="middle" fill="#334155" font-family="sans-serif" font-size="15.5">आधार-सक्षम बैंकिंग सेवाओं को अंतिम व्यक्ति तक पहुँचाने में बैंक मित्रों के अनुकरणीय योगदान हेतु।</text>
+
+  <rect x="270" y="432" width="360" height="42" rx="8" fill="#ecfdf5" stroke="#86efac"/>
+  <text x="450" y="459" text-anchor="middle" fill="#14532d" font-family="sans-serif" font-size="15" font-weight="800">प्रशस्ति क्रमांक: FI-AWARD-UP-2025-109</text>
+
+  <text x="160" y="548" fill="#334155" font-family="sans-serif" font-size="14" font-weight="700">राष्ट्रीय वित्तीय समावेशन मंच</text>
+  <text x="160" y="568" fill="#64748b" font-family="sans-serif" font-size="13">वर्ष: 2025 • लखनऊ सम्मेलन</text>
+
+  <text x="720" y="552" text-anchor="middle" fill="#b45309" font-family="sans-serif" font-size="15" font-weight="900">★ उत्कृष्ट सेवा सम्मान ★</text>
+</svg>

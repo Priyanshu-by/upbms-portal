@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 95" width="320" height="95">
+  <!-- Realistic Ink Signature for Rajendra Prasad Tiwari (State President) -->
+  <path d="M26 64 C32 20, 66 18, 62 46 C59 64, 42 58, 74 44 C94 35, 104 58, 118 44 C132 30, 146 58, 162 42 C178 24, 194 22, 198 54 C202 42, 224 36, 244 48 C260 56, 278 36, 298 40" fill="none" stroke="#132f63" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M40 76 Q165 66 288 73" fill="none" stroke="#132f63" stroke-width="2" stroke-linecap="round"/>
+  <text x="160" y="90" text-anchor="middle" fill="#1e3a8a" font-family="Georgia, serif" font-style="italic" font-size="12" font-weight="700">R. P. Tiwari (State President)</text>
+</svg>

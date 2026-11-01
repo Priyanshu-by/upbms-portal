@@ -1,0 +1,13 @@
+{
+  "name": "upbms-sangh-portal",
+  "version": "1.0.0",
+  "description": "Uttar Pradesh Bank Mitra Sangh (UPBMS) Complete Full-Stack Union Portal & Zero-Code Admin CMS Demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

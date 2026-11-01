@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 95" width="320" height="95">
+  <!-- Realistic Ink Signature for Mahendra Pratap Singh (State Treasurer) -->
+  <path d="M28 66 L42 26 L58 56 L74 24 L84 62 C98 40, 118 36, 128 56 C142 36, 162 32, 174 54 C190 36, 212 30, 228 52 C244 42, 268 38, 296 44" fill="none" stroke="#0f3d5e" stroke-width="3.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M36 76 Q160 68 286 72" fill="none" stroke="#0f3d5e" stroke-width="2" stroke-linecap="round"/>
+  <text x="160" y="90" text-anchor="middle" fill="#0f3d5e" font-family="Georgia, serif" font-style="italic" font-size="12" font-weight="700">M. P. Singh (State Treasurer)</text>
+</svg>
